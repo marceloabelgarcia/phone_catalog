@@ -1,0 +1,22 @@
+{
+  "name": "node-services",
+  "version": "1.0.0",
+  "description": "node services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "dev": "nodemon server.js localhost 8000",
+    "start": "node server.js"
+  },
+  "author": "garciamaar@gmail.com",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

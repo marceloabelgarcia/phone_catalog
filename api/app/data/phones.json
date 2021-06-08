@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "title": "Galaxy A52 5G Negro 128GB",
+    "description": "Samsung presenta el dispositivo que estabas esperando, la siguiente generación del Galaxy A51: el Samsung Galaxy A52 5G. Descubre todas las mejoras tecnológicas y nuevas características respecto al modelo anterior.",
+    "color": "black",
+    "price": 288,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500115768244/zoom-frontal-samsung-galaxy-a52-5g/",
+    "memory": "128 GB",
+    "cam": "65 Mp"
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "title": "iPhone 12",
+    "description": "Llega el iPhone 12, uno de los móviles 5G más buscados y esperados. Lo tiene todo por fuera: un diseño cuatro veces más resistente a las caídas o arañazos, una pantalla de Super Retina XDR de 6,1 pulgadas, rodeada de aluminio aeroespacial porque este móvil es de otro planeta.",
+    "color": "black",
+    "price": 801,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500094075873/desktop-frontal-iphone-12-negro/",
+    "memory": "64 GB",
+    "cam": "12 Mp"
+  },
+  {
+    "id": 3,
+    "brand": "Xiaomi",
+    "title": "Mi 10T Pro 5G",
+    "description": "Descubre el Xiaomi Mi 10T Pro 5G. Exprime al máximo tus días.\nEncuentra todo lo que buscas y mucho más, en este móvil de diseño atractivo, que satisface tus necesidades del día a día, con el mejor rendimiento y durabilidad.",
+    "color": "black",
+    "price": 450,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500094176078/zoom-frontal-Xiaomi-10T-Pro-5G/",
+    "memory": "128 GB",
+    "cam": "108 Mp"
+  },
+  {
+    "id": 4,
+    "brand": "Samsung",
+    "title": "Galaxy S21 Ultra 5G",
+    "description": "Vive una auténtica revolución en el mundo de la telefonía móvil con el nuevo Galaxy S21 Ultra 5G en Vodafone. Enamórate de su increíble tecnología y siente cada innovación en su avanzado sistema.",
+    "color": "silver",
+    "price": 1125,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500105997603/zoom-frontal-s21-ultra-plata/",
+    "memory": "256 GB",
+    "cam": "108 Mp"
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "title": "Redmi Note 10s",
+    "description": "Descubre el Xiaomi Redmi Note 10S.\nEncuentra todo lo que buscas y mucho más, en este móvil de diseño atractivo, que satisface tus necesidades del día a día, con el mejor rendimiento y durabilidad.",
+    "color": "gray",
+    "price": 218,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500094176078/zoom-frontal-Xiaomi-10T-Pro-5G/",
+    "memory": "128 GB",
+    "cam": "64 Mp"
+  },
+  {
+    "id": 6,
+    "brand": "Xiaomi",
+    "title": "Mi 11 5G",
+    "description": "Descubre el nuevo Xiaomi Mi 11 5G\nEncuentra todo lo que buscas y mucho más, en este móvil de diseño atractivo, que satisface tus necesidades del día a día, con el mejor rendimiento y durabilidad.",
+    "color": "gray",
+    "price": 693,
+    "image": "https://www.vodafone.es/c/tienda/tol/img/1500113769818/zoom-frontal-xiaomi-mi-11-5g/",
+    "memory": "128 GB",
+    "cam": "64 Mp"
+  }
+]
